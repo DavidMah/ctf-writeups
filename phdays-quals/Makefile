@@ -7,4 +7,4 @@ pwn400:
 	markdown pwn400.md > pwn400.html
 
 clean:
-	rm *.html
+	rm -v *.html

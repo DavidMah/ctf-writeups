@@ -5,3 +5,6 @@ bin200:
 
 grabbag300:
 	markdown grabbag300.md > grabbag300.html
+
+clean:
+	rm -v *.html
