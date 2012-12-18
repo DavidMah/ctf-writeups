@@ -6,3 +6,5 @@ pwn300:
 pwn400:
 	markdown pwn400.md > pwn400.html
 
+clean:
+	rm *.html
