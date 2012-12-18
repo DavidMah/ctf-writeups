@@ -5,3 +5,7 @@ phdays-zip:
 
 polictf-zip:
 	zip -r polictf-dmah-writeups.zip polictf
+
+clean:
+	rm *.zip
+	rm */*.html
